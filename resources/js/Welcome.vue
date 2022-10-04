@@ -4,7 +4,7 @@
 <script>
 export default {
     setup: () => ({
-        title: 'How To Install Vue 3 in'
+        title: 'How To  Vue 3 in'
     })
 }
 </script>
